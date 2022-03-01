@@ -7,6 +7,11 @@ JS ToDo/.tmp/
 
 #python ToDo
 /python ToDo/env
+
+#Java ToDo
 /Java ToDo/.vscode
 /Java ToDo/out
 /Java ToDo/.idea
+
+#CPP ToDo
+/build-CPP-ToDo-Desktop_Qt_6_2_3_MinGW_64_bit-Debug
