@@ -1,19 +1,24 @@
-<!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
-    <title>JS To Do List</title>
+    <title>JS To Do</title>
     <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+</head>
+<body style="font-family: 'Ubuntu', sans-serif;">
     <center>
-      <h1 class="title">JS To Do List</h1>
-      <div class="add-task-group">
-        <input type="text" name="task" id="task" class="add-task-input">
-        <button type="button" name="button" id="add-task-btn" class="add-task-btn">Add Task</button>
-      </div>
+        <h1>JS To Do</h1>
     </center>
-    <script src="js/neutralino.js"></script>
-    <script src="js/main.js"></script>
-  </body>
+    <center>
+        <div class="add-item">
+            <input type="text" name="item-name" id="item-name" class="add-item-input"></input>
+            <button class="add-item-button" id="add-item" onclick="addTodo()">Add</button>
+        </div>
+    </center>
+    <div class="todo-list" id="todo-list">
+    </div>
+    <script src="script.js"></script>
+</body>
 </html>
