@@ -24,12 +24,15 @@ namespace C_Sharp_ToDo
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            //take text from input and add to listbox
+            listBox1.Items.Add(textBox1.Text);
+            textBox1.Text = "";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            //remove selected item from listbox
+            listBox1.Items.Remove(listBox1.SelectedItem);
         }
     }
 }

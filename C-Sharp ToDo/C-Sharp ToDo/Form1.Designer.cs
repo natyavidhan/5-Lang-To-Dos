@@ -63,7 +63,6 @@ namespace C_Sharp_ToDo
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(258, 27);
             this.textBox1.TabIndex = 2;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // listBox1
             // 
@@ -73,7 +72,6 @@ namespace C_Sharp_ToDo
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(358, 384);
             this.listBox1.TabIndex = 3;
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // button2
             // 
