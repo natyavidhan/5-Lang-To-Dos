@@ -1,0 +1,18 @@
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.exe
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.deps.json
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.runtimeconfig.json
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.runtimeconfig.dev.json
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.dll
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\ref\C-Sharp ToDo.dll
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\bin\Debug\net5.0-windows\C-Sharp ToDo.pdb
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.csproj.AssemblyReference.cache
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C_Sharp_ToDo.Form1.resources
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.csproj.GenerateResource.cache
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.AssemblyInfoInputs.cache
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.AssemblyInfo.cs
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.csproj.CoreCompileInputs.cache
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.dll
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\ref\C-Sharp ToDo.dll
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.pdb
+D:\stupid projects\5 Lang Todos\C-Sharp ToDo\C-Sharp ToDo\obj\Debug\net5.0-windows\C-Sharp ToDo.genruntimeconfig.cache
