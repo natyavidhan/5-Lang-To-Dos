@@ -8,3 +8,5 @@ JS ToDo/.tmp/
 #python ToDo
 /python ToDo/env
 /Java ToDo/.vscode
+/Java ToDo/out
+/Java ToDo/.idea
