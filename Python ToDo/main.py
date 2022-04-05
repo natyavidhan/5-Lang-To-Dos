@@ -39,8 +39,7 @@ class App:
         self.load()
 
     def DeleteTask(self):
-        index = self.TaskList.curselection()
-        if index:
+        if index := self.TaskList.curselection():
             fileData = json.load(open("data.json", "r"))
             fileData.pop(index[0])
             json.dump(fileData, open("data.json", "w"))
